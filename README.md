@@ -4,7 +4,7 @@
     <img alt="SkyBlockEssentials" height="96px" src="public/resources/img/logo.png">
   </picture>
 </p>
-<h1 align="center">A Hypixel Skyblock Profile Viewer</h1>
+<h1 align="center">A Essential Mod for Hypixel SkyBlock</h1>
 
 The SkyCrypt Project, which is based on [LeaPhant's skyblock-stats](https://github.com/LeaPhant/skyblock-stats), allows you to share your <a href="https://hypixel.net/">Hypixel</a> SkyBlock profile with other players with a quick overview of your Stats, Skills, Armor, Weapons and Accessories.
 
