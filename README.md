@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="public/resources/img/logo_black.png">
-    <img alt="SkyCrypt 🍣" height="96px" src="public/resources/img/logo.png">
+    <img alt="SkyBlockEssentials" height="96px" src="public/resources/img/logo.png">
   </picture>
 </p>
 <h1 align="center">A Hypixel Skyblock Profile Viewer</h1>
